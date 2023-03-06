@@ -2,5 +2,5 @@
 
 ## Passed all tests 
 
-![Image](C:\Users\PC\OneDrive\Escritorio\jest-Introduction\img").
+![Image]("C:\Users\PC\OneDrive\Escritorio\jest-Introduction\img").
 
