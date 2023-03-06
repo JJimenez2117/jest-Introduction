@@ -4,6 +4,7 @@ test('object assignment', () => {
     expect(data).toEqual({one: 1, two: 2});
   });
 
+//all values are truthy except false, 0, -0, 0n, "", null, undefined, and NaN
   test('null', () => {
     const n = null;
     expect(n).toBeNull();
