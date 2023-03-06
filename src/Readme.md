@@ -1,4 +1,10 @@
-# Common results
+# Common commands and results
+
+## Run all suites: npm run test
+
+## Run a single suite: npm test -- --watch namefile
+
+## Run a single test: npm test -- --testNamePattern testname
 
 ## Passed all tests 
 
